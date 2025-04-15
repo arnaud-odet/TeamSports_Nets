@@ -1,0 +1,13 @@
+pandas == 2.2.2
+numpy == 1.23.5
+matplotlib == 3.9.0
+seaborn 
+plotly 
+scikit-learn == 1.5.2
+statsmodels 
+ipykernel 
+ipython 
+ipywidgets
+pyproj
+torch == 2.3.1
+torchvision 

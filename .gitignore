@@ -138,5 +138,5 @@ dmypy.json
 
 *.html
 /data
-
+/notebooks/file_manip.ipynb
 *.csv
